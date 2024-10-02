@@ -89,7 +89,7 @@ To run the project locally, follow the steps below:
 ## 📸 Screenshots
 
 ### Gradio Interface
-![Emotion Detection Gradio Interface](https://github.com/poojabaghel0604/Emotion_Detection_Model/blob/main/Screenshot%20(71).png)
+![Emotion Detection Gradio Interface](https://github.com/poojabaghel0604/Emotion_Detection_Model/blob/main/Screenshot%20(73).png)
 
 ### Real-Time Emotion Detection
 ![Real-Time Emotion Detection](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVkOGYOBkHRxAl0wCFSiHn3EFGX4CqwMv6ng&s)
